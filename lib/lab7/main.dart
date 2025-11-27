@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import './lab7/home_screen.dart';
-import './lab7/settings_screen.dart';
+import 'home_screen.dart';
+import 'settings_screen.dart';
 
 void main() {
   runApp(const NewsReaderApp());
